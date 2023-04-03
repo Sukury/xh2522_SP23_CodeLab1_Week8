@@ -1,1 +1,3 @@
-# xh2522_SP23_CodeLab1_Week8
+# Updated game 
+
+this game contains scriptable object and ratatable object code
